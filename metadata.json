@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse - All-in-One Workout, Cardio & Nutrition Tracker",
+  "description": "A comprehensive daily fitness, bodyweight calisthenics, gym logger, cardio tracker, and nutrition suite with phone sensor motion detection, voice coaching, and offline Room database architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
